@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "connectionTimeout": 30,
+            "database": "blogpoo",
+            "dialect": "MySQL",
+            "name": "test",
+            "port": 3306,
+            "server": "127.0.0.1",
+            "username": "root"
+        }
+    ],
+    "liveServer.settings.multiRootWorkspaceName": "cours-php-poo-master",
+    "phpserver.phpPath": "C:\\PHP7",
+    "phpserver.relativePath": "C:\\wamp64\\www"
+}
